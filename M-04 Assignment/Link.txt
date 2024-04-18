@@ -1,0 +1,58 @@
+https://github.com/phitronio/Batch-5-Introduction-to-C-Programming
+https://phitron.gitbook.io/c/undefined-1
+
+
+
+////////////////////
+
+1 bit =0 or 1
+1byte = 8 bit
+
+2^n-1
+https://phitron.io/ph025/video/ph025-1-10-data-types-limitations-in-c
+
+
+int is 4 byte means 32 bit
+2^32 -1
+
+10^9  -- int 
+boro hole 
+
+
+---------------------------------------------------------------
+long long int (8 byte, 64 bit 2^64-1; 10^18 
+
+llf
+
+---------------------------------------------------------------
+
+Float 4 byte 32 bit
+
+Normally 6/7 ta value nite pare
+
+solutiom
+double 
+
+lf
+
+totla 16 sonkha exact dibe
+double a = 2.1234455;
+printf("%0.15lf", a) // 15 sonkha
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

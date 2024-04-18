@@ -1,0 +1,49 @@
+
+1. Compiler Setup
+copy mingW in C drive, extract there (Extract files)
+
+Then Go to Mingw-Bin 
+copy the path
+
+C:\MinGW\bin
+
+Go to env variable
+
+envi variables
+
+then
+
+
+(User variable)-->
+
+path 
+new
+
+paste the url
+
+
+2. Extension
+
+Code runner - Jun Han
+
+settings, extention setting--Edit in estting.json
+
+Copy all the provided json
+
+
+3. Install extension 
+C/C++, C/C++ Extension Pack
+
+
+4. setting+keyboard short curt Run code -->ctrl+f9
+
+     "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt.exe && $dir$fileNameWithoutExt.exe < input.txt > output.txt",
+
+
+
+
+
+
+
+
+
