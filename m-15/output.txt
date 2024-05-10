@@ -1,0 +1,12 @@
+The address of 0th index- 0061FF0C
+The address of 0th index- 0061FF0C
+The address of 0th index- 0061FF0C
+The address of 1st index- 0061FF10
+The address of 2nd index- 0061FF14
+The address of 3rd index- 0061FF18
+The address of 4th index- 0061FF1C
+The value of 0th index- 10
+The value of 1st index- 20
+The value of 0th index- 20
+The value of 0th index- 20
+The value of 0th index- 20

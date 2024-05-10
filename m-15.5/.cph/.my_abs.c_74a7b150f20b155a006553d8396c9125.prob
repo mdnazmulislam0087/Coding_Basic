@@ -1,0 +1,1 @@
+{"name":"Local: my_abs","url":"c:\\Users\\Lenovo T460\\Desktop\\P_ Code basic\\m-15.5\\my_abs.c","tests":[{"id":1714590475053,"input":"5","output":"5"},{"id":1714590483670,"input":"-7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo T460\\Desktop\\P_ Code basic\\m-15.5\\my_abs.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: my_len","url":"c:\\Users\\Lenovo T460\\Desktop\\P_ Code basic\\m-15.5\\my_len.c","tests":[{"id":1714590871832,"input":"hello","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo T460\\Desktop\\P_ Code basic\\m-15.5\\my_len.c","group":"local","local":true}
